@@ -15,15 +15,17 @@ Material oficial de ventas y presentación del ecosistema NovaSolum.
   - `GeoNova360/` — Panel geoespacial (5 capturas)
   - `FarmaNova/` — POS farmacéutico (6 capturas)
   - `NovaFood/` — Restaurantes & delivery (13 capturas)
-  - `_recursos/` — Logos y recursos compartidos
+  - `recursos/` — Logos y recursos compartidos
 
 ## 🌐 GitHub Pages
 
 Este repo está publicado en GitHub Pages:
 
 ```
-https://dre xuz.github.io/EcosistemaNovaSolum/guia_ventas_novasolum.html
+https://drexuz.github.io/EcosistemaNovaSolum/
 ```
+
+La raíz redirige automáticamente a `guia_ventas_novasolum.html`.
 
 ## 🚀 Cómo actualizar
 
