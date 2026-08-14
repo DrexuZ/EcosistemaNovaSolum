@@ -1,0 +1,15 @@
+# Ignorar archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# NO subir credenciales ni secretos
+.env
+.env.*
+*.secret
+secrets.*
+backup_config.json
+
+# Carpetas de código fuente no necesarias en este repo comercial
+node_modules/
+dist/
